@@ -1,0 +1,17 @@
+การรวมเลขของระบบ 2’s complement 2 + 7 ควรได้เลขฐานสอง จำนวน 5 บิตเป็นเท่าไร
+00110 false
+01001 false
+10000 true
+00111 false
+
+Canonical sum ของ AB + AbarB ควรอ่านว่าอย่างไร
+A and B or A bar and B true
+A or B and A bar or B false
+A and B or A and B false
+ถูกทุกข้อ false
+
+จากเลขฐานสอง 101011 เมื่อแปลงเป็นเลขฐานสิบแล้ว ค่าที่ได้ตรงกับข้อใด
+30₁₀ false
+43₁₀ false
+45₁₀ true
+47₁₀ false
