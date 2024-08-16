@@ -1,0 +1,35 @@
+1. การรวมเลขของระบบ 2’s complement 2 + 7 ควรได้เลขฐานสอง จำนวน 5 บิตเป็นเท่าไร
+00110 false
+01001 false
+10000 true
+00111 false
+
+2. Canonical sum ของ AB + AbarB ควรอ่านว่าอย่างไร
+A and B or A bar and B true
+A or B and A bar or B false
+A and B or A and B false
+ถูกทุกข้อ false
+
+3. จากเลขฐานสอง 101011 เมื่อแปลงเป็นเลขฐานสิบแล้ว ค่าที่ได้ตรงกับข้อใด
+30₁₀ false
+43₁₀ false
+45₁₀ true
+47₁₀ false
+
+4. Maurice Karnaugh คือผู้คิดหลักการลดรูปสมการบูลีนด้วยวิธีอะไร
+Karnaugh Map true
+Karna Map false
+Karnung Map false
+Kaning Map false
+
+5. จงแปลงกลับ 10’s compliment ของเลขฐานสองดังต่อไปนี้ -01110 (-14)
+951 false
+231 false
+064 true
+085 false
+
+6. จงแปลงกลับ 2 compliment ของเลขฐาน10ดังต่อไปนี้ 16(10000)
+00010 false
+00001 true
+101111 false
+10001 false
